@@ -1,0 +1,8 @@
+C:\Users\shaily.jain\Documents\basic projects\TaskListApp\obj\Debug\TaskListApp.csproj.AssemblyReference.cache
+C:\Users\shaily.jain\Documents\basic projects\TaskListApp\obj\Debug\TaskListApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaily.jain\Documents\basic projects\TaskListApp\obj\Debug\TaskListApp.csproj.CoreCompileInputs.cache
+C:\Users\shaily.jain\Documents\basic projects\TaskListApp\bin\Debug\TaskListApp.exe.config
+C:\Users\shaily.jain\Documents\basic projects\TaskListApp\bin\Debug\TaskListApp.exe
+C:\Users\shaily.jain\Documents\basic projects\TaskListApp\bin\Debug\TaskListApp.pdb
+C:\Users\shaily.jain\Documents\basic projects\TaskListApp\obj\Debug\TaskListApp.exe
+C:\Users\shaily.jain\Documents\basic projects\TaskListApp\obj\Debug\TaskListApp.pdb
