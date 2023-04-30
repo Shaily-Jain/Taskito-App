@@ -1,0 +1,8 @@
+C:\Users\shaily.jain\Documents\basic projects\ATM Transaction App\obj\Debug\ATM Transaction App.csproj.AssemblyReference.cache
+C:\Users\shaily.jain\Documents\basic projects\ATM Transaction App\obj\Debug\ATM Transaction App.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaily.jain\Documents\basic projects\ATM Transaction App\obj\Debug\ATM Transaction App.csproj.CoreCompileInputs.cache
+C:\Users\shaily.jain\Documents\basic projects\ATM Transaction App\bin\Debug\ATM Transaction App.exe.config
+C:\Users\shaily.jain\Documents\basic projects\ATM Transaction App\bin\Debug\ATM Transaction App.exe
+C:\Users\shaily.jain\Documents\basic projects\ATM Transaction App\bin\Debug\ATM Transaction App.pdb
+C:\Users\shaily.jain\Documents\basic projects\ATM Transaction App\obj\Debug\ATM Transaction App.exe
+C:\Users\shaily.jain\Documents\basic projects\ATM Transaction App\obj\Debug\ATM Transaction App.pdb
